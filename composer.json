@@ -1,12 +1,12 @@
 {
-    "name": "essam/laravel-tap-payment",
+    "name": "sehsah/laravel-tap-payment",
     "description": "Tap Payment SDK Package for PHP Laravel",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sfwan Essam",
-            "email": "sfwanessam9@gmail.com"
+            "name": "mahmoud sehsah",
+            "email": "mahmoudsehsah@gmail.com"
         }
     ],
     "minimum-stability": "dev",
